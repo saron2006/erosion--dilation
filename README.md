@@ -49,15 +49,18 @@ display_img(dilate,"Dilated Image")
 ```
 ## Output:
 ### Display the input Image
+![image](https://github.com/user-attachments/assets/615f9dc4-38af-44a7-ae28-ada1571b0acb)
 
 
 
 ### Display the Eroded Image
 
+![image](https://github.com/user-attachments/assets/6c8fb933-7ed8-4464-929d-1df4f3185f5c)
 
 
 ### Display the Dilated Image
 
+![image](https://github.com/user-attachments/assets/0abbde12-56c2-46b6-b7ea-9ba1cef59941)
 
 
 ## Result
